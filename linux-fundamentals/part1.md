@@ -11,19 +11,26 @@ Learn basic Linux commands and navigation.
 ## What I Learned
 
 pwd → Displays the current working directory
+
 ls → Lists files and directories in the current location
+
 cd → Changes directory (navigation between folders)
+
 cat → Displays the contents of a file
 
 ## Commands I Used
 pwd
+
 ls
+
 cd folder4
+
 cat note.txt
 
 ## Real Output
 
 /home/tryhackme/folder4
+
 Hello World!
 
 ## Key Takeaways
