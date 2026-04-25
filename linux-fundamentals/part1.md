@@ -42,6 +42,7 @@ echo "be still" > hope.txt
 ## Real Output
 
 /home/tryhackme/folder4
+
 be still
 
 ## Key Takeaways
