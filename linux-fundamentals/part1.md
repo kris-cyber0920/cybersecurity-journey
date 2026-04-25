@@ -18,6 +18,16 @@ cd → Changes directory (navigation between folders)
 
 cat → Displays the contents of a file
 
+> → Overwrite file content
+
+>> →  Appends file content
+
+grep → searches for patterns in text
+
+wc -l →  counts number of lines
+
+|   → Pipes output from  one command to another
+
 ## Commands I Used
 pwd
 
@@ -27,11 +37,13 @@ cd folder4
 
 cat note.txt
 
+echo "be still" > hope.txt
+
 ## Real Output
 
 /home/tryhackme/folder4
 
-Hello World!
+be still
 
 ## Key Takeaways
 
