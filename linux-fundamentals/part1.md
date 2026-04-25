@@ -10,25 +10,27 @@ Learn basic Linux commands and navigation.
 
 ## What I Learned
 
-'pwd' → Displays the current working directory
+`pwd` → Displays the current working directory
 
-'ls' → Lists files and directories in the current location
+`ls` → Lists files and directories in the current location
 
-'cd' → Changes directory (navigation between folders)
+`cd` → Changes directory (navigation between folders)
 
-'cat' → Displays the contents of a file
+`cat` → Displays the contents of a file
 
-'>' → Overwrite file content
+`>` → Overwrite file content
 
-'>>' →  Appends file content
+`>>` →  Appends file content
 
-'grep' → searches for patterns in text
+`grep` → searches for patterns in text
 
-'wc -l' →  counts number of lines
+`wc -l` →  counts number of lines
 
-'|'   → Pipes output from  one command to another
+`|`   → Pipes output from  one command to another
 
 ## Commands Used
+
+```
 pwd
 
 ls
@@ -39,11 +41,16 @@ cat note.txt
 
 echo "be still" > hope.txt
 
+```
+
 ## Real Output
+```
 
 /home/tryhackme/folder4
 
 be still
+
+```
 
 ## Key Takeaways
 
