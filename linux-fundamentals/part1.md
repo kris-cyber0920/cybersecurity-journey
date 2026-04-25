@@ -22,7 +22,7 @@ Learn basic Linux commands and navigation.
 
 `>>` →  Appends file content
 
-`grep` → searches for patterns in text
+`grep` → Searches for patterns in text
 
 `wc -l` →  counts number of lines
 
