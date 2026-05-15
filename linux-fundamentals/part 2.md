@@ -8,6 +8,7 @@ Learn Linux permissions, users, file searching, and SSH basics.
 
 
 ## 🧠 What I Learned
+```
 
  `chmod` → Changes file permissions
  `su` → Switch user
@@ -17,8 +18,9 @@ Learn Linux permissions, users, file searching, and SSH basics.
  `ssh` → Connect to remote machines securely
 
 ---
+```
 
-## 🔐 Permissions
+ Permissions
 
 Example:
 ```bash
@@ -26,15 +28,20 @@ rwxr-xr--
 Owner → read, write, execute
 Group → read, execute
 Others → read only
+```
 
 Commands Used
+```
 chmod +x file.sh
 find / -name notes.txt
 grep error log.txt
 ssh tryhackme@10.10.10.5
+```
 
 Example Output
+```
 22/tcp open ssh OpenSSH 7.6
+```
 
 Challenges
 Confused between find and grep
