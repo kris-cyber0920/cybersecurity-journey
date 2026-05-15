@@ -38,6 +38,8 @@ chmod +x file.sh
 find / -name notes.txt
 grep error log.txt
 ssh tryhackme@10.10.10.5
+nmap -sV 10.10.10.5
+
 ```
 
 ## Example Output
